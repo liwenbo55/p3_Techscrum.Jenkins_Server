@@ -1,4 +1,5 @@
 # base image (jenkins:2.426.2-lts-jdk11) based on debian
+
 FROM jenkins/jenkins:2.426.2-lts-jdk11
 
 USER root
